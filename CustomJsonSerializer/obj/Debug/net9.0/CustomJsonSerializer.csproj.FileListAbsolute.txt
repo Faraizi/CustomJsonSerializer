@@ -1,0 +1,11 @@
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\bin\Debug\net9.0\CustomJsonSerializer.deps.json
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\bin\Debug\net9.0\CustomJsonSerializer.dll
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\bin\Debug\net9.0\CustomJsonSerializer.pdb
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\obj\Debug\net9.0\CustomJsonSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\obj\Debug\net9.0\CustomJsonSerializer.AssemblyInfoInputs.cache
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\obj\Debug\net9.0\CustomJsonSerializer.AssemblyInfo.cs
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\obj\Debug\net9.0\CustomJsonSerializer.csproj.CoreCompileInputs.cache
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\obj\Debug\net9.0\CustomJsonSerializer.dll
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\obj\Debug\net9.0\refint\CustomJsonSerializer.dll
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\obj\Debug\net9.0\CustomJsonSerializer.pdb
+C:\Users\sahad\Desktop\New folder\CustomJsonSerializerDotNet\CustomJsonSerializer\obj\Debug\net9.0\ref\CustomJsonSerializer.dll

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F58C9D1A-D250-40D2-9D35-C57B0D83142B}|..\\CustomJsonSerializerApp\\CustomJsonSerializerApp.csproj|c:\\users\\sahad\\desktop\\new folder\\customjsonserializerdotnet\\customjsonserializerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|c:\\users\\sahad\\desktop\\new folder\\customjsonserializerdotnet\\customjsonserializer\\parsing\\jsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|solutionrelative:parsing\\jsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|c:\\users\\sahad\\desktop\\new folder\\customjsonserializerdotnet\\customjsonserializer\\serialization\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|solutionrelative:serialization\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|c:\\users\\sahad\\desktop\\new folder\\customjsonserializerdotnet\\customjsonserializer\\conversion\\jsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|solutionrelative:conversion\\jsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|c:\\users\\sahad\\desktop\\new folder\\customjsonserializerdotnet\\customjsonserializer\\exceptions\\jsonserializationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|solutionrelative:exceptions\\jsonserializationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|c:\\users\\sahad\\desktop\\new folder\\customjsonserializerdotnet\\customjsonserializer\\serialization\\reflectioncache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|solutionrelative:serialization\\reflectioncache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|c:\\users\\sahad\\desktop\\new folder\\customjsonserializerdotnet\\customjsonserializer\\customjsonserializer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0226D703-0932-40BD-9363-ACF6DD16D816}|CustomJsonSerializer.csproj|solutionrelative:customjsonserializer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonSerializationException.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Exceptions\\JsonSerializationException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\JsonSerializationException.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Exceptions\\JsonSerializationException.cs",
+              "RelativeToolTip": "Exceptions\\JsonSerializationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:55:17.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Conversion\\JsonConverter.cs",
+              "RelativeDocumentMoniker": "Conversion\\JsonConverter.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Conversion\\JsonConverter.cs",
+              "RelativeToolTip": "Conversion\\JsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:54:40.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonParser.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Parsing\\JsonParser.cs",
+              "RelativeDocumentMoniker": "Parsing\\JsonParser.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Parsing\\JsonParser.cs",
+              "RelativeToolTip": "Parsing\\JsonParser.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAEwBEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:54:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReflectionCache.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Serialization\\ReflectionCache.cs",
+              "RelativeDocumentMoniker": "Serialization\\ReflectionCache.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Serialization\\ReflectionCache.cs",
+              "RelativeToolTip": "Serialization\\ReflectionCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:53:15.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializerApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CustomJsonSerializerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializerApp\\Program.cs",
+              "RelativeToolTip": "..\\CustomJsonSerializerApp\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:37:58.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Serialization\\JsonSerializer.cs",
+              "RelativeDocumentMoniker": "Serialization\\JsonSerializer.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\Serialization\\JsonSerializer.cs",
+              "RelativeToolTip": "Serialization\\JsonSerializer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwF4BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T11:33:01.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomJsonSerializer",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\CustomJsonSerializer.csproj",
+              "RelativeDocumentMoniker": "CustomJsonSerializer.csproj",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\New folder\\CustomJsonSerializerDotNet\\CustomJsonSerializer\\CustomJsonSerializer.csproj",
+              "RelativeToolTip": "CustomJsonSerializer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T11:30:19.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
